@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>zabbix-agent</id>
+    <version>5.2.2</version>
+    <title>Zabbix Agent</title>
+    <authors>Iteco</authors>
+    <owners>Zelyanin</owners>
+    <licenseUrl>https://www.zabbix.com/license</licenseUrl>
+    <projectUrl>https://www.zabbix.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description> This package based to https://chocolatey.org/packages/zabbix-agent  </description>
+    <summary>The Zabbix agent is used in conjunction with a Zabbix Server for monitoring a system.</summary>
+  </metadata>
+</package>
